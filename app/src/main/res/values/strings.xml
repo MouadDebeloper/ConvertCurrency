@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConvertCurrency</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="currency_array">
+    <item>US</item>
+    <item>DH</item>
+    <item>UD</item>
+    </string-array>
+</resources>
